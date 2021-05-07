@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ialak&show_icons=true&theme=vue" alt="Andy's github stats" />
 
-### Hi there, I'm [Andy Pan](https://andypan.me) 🎉
+### Hi there, I'm [ialak](http://ialak.github.io/) 🎉
 
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
